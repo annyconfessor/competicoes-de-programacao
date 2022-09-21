@@ -1,3 +1,4 @@
+// link: https://cses.fi/problemset/task/1640
 const sum = (n) => {
   let a
   const values = [1, 2, 3, 4, 5, 6, 7, 8, 9]

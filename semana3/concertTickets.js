@@ -1,3 +1,4 @@
+// link: https://cses.fi/problemset/task/1091
 const BuyTIckets = () => {
   const buyers = [
     {
